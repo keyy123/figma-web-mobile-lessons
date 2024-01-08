@@ -66,7 +66,7 @@ Equivalent to this in HTML:
 | Syntax      | Description |
 | ----------- | ----------- |
 | Header      | Title |
-| Paragraph   | First paragraph. <br><br> Second paragraph. |
+| Paragraph   | First paragraph. <br><br> Second paragraph.|
 
 
 ### Tables with list within table cells
