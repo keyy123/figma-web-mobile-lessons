@@ -33,13 +33,15 @@ We will add images to github repo within the assets folder/directory. We will ne
 
 ![Alt text](URL "Title")
 
-![Screenshot Picture](/repo/assets/pic.png?raw=true "Photo title")
+![Screenshot Picture](/assets/[screen-name].png "Photo title")
 
 Equivalent to this in HTML:
 
 ```html
 <img src="/repo/assets/pic.png" alt="Screenshot Picture" title="Photo title">
 ```
+
+note: Use `mv` or `cp` command in bash shell to move screenshots from windows to WSL within the `/assets` directory
 
 ## How to resize images
 
