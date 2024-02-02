@@ -12,6 +12,7 @@
 - Establish clear goals (What are your goals? Certain flow or interaction)
 - Who is my audience? (Explain thought process and explanations between sketches to avoid losing time)
 - Always use a timer (time box) for sketching, idea generation, and even presentation
+
  <a id="item-two"></a>
  ### Ready, Set, Go
 - Just get stared
