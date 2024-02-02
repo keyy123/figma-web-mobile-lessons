@@ -77,3 +77,7 @@ note: Use `mv` or `cp` command in bash shell to move screenshots from windows to
 | ----------- | ----------- |
 | Header      | Title |
 | List        | Here's a list! <ul><li>Item one.</li><li>Item two.</li></ul> |
+
+### Useful Shortcuts
+
+- Left Shift + Alt + Up/Down = Copy to next line 
