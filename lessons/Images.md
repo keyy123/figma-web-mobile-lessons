@@ -29,7 +29,7 @@ They are here to stay and will be used very often. Get used to it.
 
  3. Import image via file explorer (locally)
     - Select the shape tool and select `place image` option
-    - [Place Image Location](./assets/Place-image-topbar.png)
+    - [Place Image Location](../assets/Place-image-topbar.png)
     - Find image in the file explorer and click on the canvas
  <br/>
 
@@ -59,7 +59,7 @@ They are here to stay and will be used very often. Get used to it.
  #### Fill Properties for images
  - In the right sidebar under `Fill` section, Click Image and you should see `Fill` next to a dropdown
  <br/>
- - [Fill Options For Images](./assets/fill-image-options.png)
+ - [Fill Options For Images](../assets/fill-image-options.png)
  <br/>
  1. Fill = Fill up the available space (w+H) using the image
  <br/>
@@ -75,11 +75,11 @@ They are here to stay and will be used very often. Get used to it.
  - There are other image options like Exposure, Contrast, Saturation, Temperature, Tint, etc to add customization to image.
  <br/>
 
-- [Other Image Effects](./assets/Other-Image-Options.png)
+- [Other Image Effects](../assets/Other-Image-Options.png)
 
 Figma even has a blend mode that allows us to create photoshop-like effects to create awesome images
 
-- [Blend Mode Menu](./assets/blend-mode-effects-menu.png)
+- [Blend Mode Menu](../assets/blend-mode-effects-menu.png)
  <br/>
  
  <a id="item-five"></a>
@@ -88,7 +88,7 @@ Figma even has a blend mode that allows us to create photoshop-like effects to c
  <br/>
 - While an image or element is still selected, In the Fill section, Click the + sign lets us add a new layer to our image which can be gradients or other things to the element
 
-- [Adding Layers to Images](./assets/adding-to-img-fill.png)
+- [Adding Layers to Images](../assets/adding-to-img-fill.png)
 <br/>
 
  <a id="item-six"></a>
